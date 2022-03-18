@@ -1,0 +1,6 @@
+maxwell home:https://maxwells-daemon.io/
+version:1.29.2
+JDK:8
+
+Why 1.29.2 ?
+maxwell version above 1.29.2 no longer support JDK8 anymore.

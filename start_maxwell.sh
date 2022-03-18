@@ -1,0 +1,1 @@
+bin/maxwell --config ./config.properties.kafka --daemon
