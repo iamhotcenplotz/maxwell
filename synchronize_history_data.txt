@@ -1,0 +1,3 @@
+By default, maxwell will only send increment data to kafka.
+To synchronize history data:
+read information from : https://maxwells-daemon.io/bootstrapping/
