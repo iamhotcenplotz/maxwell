@@ -1,3 +1,6 @@
 By default, maxwell will only send increment data to kafka.
 To synchronize history data:
 read information from : https://maxwells-daemon.io/bootstrapping/
+
+Example:
+insert into maxwell.bootstrap(database_name,table_name) values('ods_news_db','ods_news_snowball')
